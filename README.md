@@ -7,7 +7,13 @@ This is a small and lightweight ORM for node.js. It is designed to be used with 
 Clone the repository inside your project folder:
 
 ```bash
-git clone https://github.com/pacificdev/tiny-node-orm.git
+git clone git@github.com:fabiopacificicom/tiny-node-orm.git
+```
+
+add the necessary dependencies
+
+```bash
+npm i express mysql2
 ```
 
 ## Usage
